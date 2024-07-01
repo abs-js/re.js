@@ -1,5 +1,5 @@
 {
-  "name": "re",
+  "name": "re.js",
   "version": "1.0.0",
   "description": "one regex utel",
   "main": "re.main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abs-js/re.git"
+    "url": "git+https://github.com/abs-js/re.js.git"
   },
   "keywords": [
     "regex",
@@ -18,7 +18,7 @@
   "author": "artur",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abs-js/re/issues"
+    "url": "https://github.com/abs-js/re.js/issues"
   },
-  "homepage": "https://github.com/abs-js/re#readme"
+  "homepage": "https://github.com/abs-js/re.js#readme"
 }

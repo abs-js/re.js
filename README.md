@@ -25,7 +25,7 @@ where you check all matchs($r) of a string($s), returns: (*int*)the total of mat
 
 ```javascript
 let str = "hello world, you're good";
-// /!\                             ^       ^
+// /!\   note the specials caracters
 let regex = /\s\w+/g;
 
 let matchs = re.matchs(str, regex);
@@ -48,7 +48,7 @@ re.reDesincluding(str, regex, function(m) {
 });
 //output:
 // cause: array [ ",", "\'re", <empty string> ]
-//      no have rest                               ^
+//      no have rest                      ^
 ```
 ***NOTES***:
     -   if no have matchs, is returned one erro.
